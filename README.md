@@ -1,3 +1,8 @@
+nssmart/steam-web-api-client
+===============================
+This package is an up-to-date version of the original zyberspace's one.
+For now the only difference is an open version of guzzlehttp to allow package to be installed together with other modern packages using guzzle >= 7.0.
+
 zyberspace/steam-web-api-client
 ===============================
 Automatically generated api client for the [Steam Web API](https://developer.valvesoftware.com/wiki/Steam_Web_API) in style of the [google-api-php-client](https://github.com/google/google-api-php-client/).
